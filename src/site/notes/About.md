@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/about/","noteIcon":""}
+{"dg-publish":true,"permalink":"/about/"}
 ---
 
 > [!figure] 
