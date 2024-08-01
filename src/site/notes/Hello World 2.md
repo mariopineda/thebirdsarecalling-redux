@@ -3,5 +3,5 @@
 ---
 
 - Hello World 2
-- [[Hello World\|Hello World]]
+- [[About\|About]]
 - Just a test 2
