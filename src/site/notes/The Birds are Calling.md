@@ -2,7 +2,8 @@
 {"dg-publish":true,"permalink":"/the-birds-are-calling/","tags":["gardenEntry"],"noteIcon":""}
 ---
 
-# The Birds are Calling
+![chickadee-banner.png|banner](/img/user/images/chickadee-banner.png)
+
 This is your new *vault*.
 
 Make a note of something, [[create a link\|create a link]], or try [the Importer](https://help.obsidian.md/Plugins/Importer)!
